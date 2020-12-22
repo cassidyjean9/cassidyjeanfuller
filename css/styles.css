@@ -129,10 +129,13 @@ h2 {
 		visibility: hidden;
 	}
 	body {
-		background-color: #dedede;
 		text-align: center;
 		font-size: 30;
-	}
+    }
+    .site-title{
+        padding-bottom: 2vh;
+        border-bottom: 1px solid black;
+    }
     #footer {
         visibility: hidden;
         z-index: -1;
