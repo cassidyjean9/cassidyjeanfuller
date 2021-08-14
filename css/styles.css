@@ -96,7 +96,7 @@ h2 {
   background-size: cover; 
 }
 #site-3 {
-    background: url('../assets/ex/5.jpeg');
+    background: url('../assets/pettle.png');
     z-index: 10;
     height: 30vh;
     display: block;
@@ -106,7 +106,7 @@ h2 {
   background-size: cover; 
 }
 #site-3:hover {
-    background: url('../assets/ex/6.jpeg');
+    background: url('../assets/Pettle.gif');
     z-index: 10;
     height: 30vh;
     display: block;
