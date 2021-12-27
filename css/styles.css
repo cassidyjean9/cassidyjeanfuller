@@ -3,11 +3,12 @@ body {
 }
 .links-div {
     text-align: center;
-    padding: 5px;
+    padding: 20px;
+    border-top: 2px solid black;
 
 }
 .links-div a {
-    padding: 5px;
+    padding: 20px;
 }
 .name-div {
     text-align: center;
