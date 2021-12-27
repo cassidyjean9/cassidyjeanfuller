@@ -4,11 +4,10 @@ body {
 .links-div {
     text-align: center;
     padding: 20px;
-    border-top: 2px solid black;
 
 }
 .links-div a {
-    padding: 20px;
+    padding: 5px;
 }
 .name-div {
     text-align: center;
